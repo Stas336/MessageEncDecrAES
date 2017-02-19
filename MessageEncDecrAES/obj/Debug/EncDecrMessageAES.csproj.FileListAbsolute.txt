@@ -1,0 +1,9 @@
+c:\users\stas\documents\visual studio 2015\Projects\EncDecrMessageAES\EncDecrMessageAES\bin\Debug\EncDecrMessageAES.exe.config
+c:\users\stas\documents\visual studio 2015\Projects\EncDecrMessageAES\EncDecrMessageAES\bin\Debug\EncDecrMessageAES.exe
+c:\users\stas\documents\visual studio 2015\Projects\EncDecrMessageAES\EncDecrMessageAES\bin\Debug\EncDecrMessageAES.pdb
+c:\users\stas\documents\visual studio 2015\Projects\EncDecrMessageAES\EncDecrMessageAES\obj\Debug\EncDecrMessageAES.csprojResolveAssemblyReference.cache
+c:\users\stas\documents\visual studio 2015\Projects\EncDecrMessageAES\EncDecrMessageAES\obj\Debug\EncDecrMessageAES.Form1.resources
+c:\users\stas\documents\visual studio 2015\Projects\EncDecrMessageAES\EncDecrMessageAES\obj\Debug\EncDecrMessageAES.Properties.Resources.resources
+c:\users\stas\documents\visual studio 2015\Projects\EncDecrMessageAES\EncDecrMessageAES\obj\Debug\EncDecrMessageAES.csproj.GenerateResource.Cache
+c:\users\stas\documents\visual studio 2015\Projects\EncDecrMessageAES\EncDecrMessageAES\obj\Debug\EncDecrMessageAES.exe
+c:\users\stas\documents\visual studio 2015\Projects\EncDecrMessageAES\EncDecrMessageAES\obj\Debug\EncDecrMessageAES.pdb
